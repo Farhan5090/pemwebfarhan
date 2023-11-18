@@ -15,4 +15,4 @@
     a. Sistem manajemen inventaris untuk melacak persediaan dan memberikan peringatan saat stok rendah.
     b. Penggunaan aplikasi manajemen jadwal karyawan untuk efisiensi dan fleksibilitas yang lebih baik.
     c. jadi disini kita akan menambahkan fitur edit dalam data pelanggan.
-Penerapan solusi-solusi ini dapat membantu meningkatkan efisiensi operasional, kualitas layanan, dan kepuasan pelanggan dalam bisnis laundry.
+Penerapan solusi-solusi ini dapat membantu meningkatkan efisiensi  kualitas layanan, dan kepuasan pelanggan dalam bisnis laundry.
